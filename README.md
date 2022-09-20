@@ -9,9 +9,9 @@ ____________________________________________________
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaybee&theme=omni&show_icons=true)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maaybee&theme=omni&show_icons=true)
-
 ## Linguagens que estou aprendendo:
 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![shellscript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![b4d43e73ae0c815a3ff9cddb6ff71c3c](https://user-images.githubusercontent.com/112830614/191261564-8fa61b07-38a6-466b-a360-10dd2f915b76.gif)
+
+![novo](https://user-images.githubusercontent.com/112830614/191263420-6304f915-1c52-4174-9516-4f24dc866ce5.gif)
